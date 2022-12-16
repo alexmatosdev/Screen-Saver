@@ -6,4 +6,5 @@ Features of this application include:
   - Automatically changes pictures
 
 -Front-end developed in JavaFX
+
 -Back-end developed in Java
